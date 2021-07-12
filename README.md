@@ -11,11 +11,11 @@ Requirements to run the Card component
 1. eclipse (PHOTON)
 2. Java Card Development Kit 3.1 with JDK 11 (64 bit)
   
-  -> Simulator (java_card_simulator-3_1_0-u4-win-bin-do-b_112-06_jan_2021.msi): https://www.oracle.com/java/technologies/javacard-sdk-downloads.html
+  - Simulator (java_card_simulator-3_1_0-u4-win-bin-do-b_112-06_jan_2021.msi): https://www.oracle.com/java/technologies/javacard-sdk-downloads.html
     
     Create the environment variable JC_HOME_SIMULATOR and set it's value to the root directory of Java Card development Kit Simulator (C:\Program Files (x86)\Oracle\Java Card Development Kit Simulator 3.1.0)
   
-  -> Tools (java_card_tools-win-bin-b_108-06_jan_2021.zip): https://www.oracle.com/java/technologies/javacard-sdk-downloads.html
+  - Tools (java_card_tools-win-bin-b_108-06_jan_2021.zip): https://www.oracle.com/java/technologies/javacard-sdk-downloads.html
     
     Unarchive the archive you downloaded in the Oracle\Java Card Tools 3.1.0 directory
     Create the environment variable JC_HOME_TOOLS and set it's value to the root directory of Java Card Tools (C:\Program Files (x86)\Oracle\Java Card Tools 3.1.0)
@@ -46,5 +46,5 @@ Requirements to run the Card component
 ### Terminal
 In order to run the Terminal component, you'll need:
 
--> java IDE (I used Intellij)
--> setup done for the Card component
+- java IDE (I used Intellij)
+- setup done for the Card component
